@@ -20,3 +20,6 @@ footer { text-align: center; color: rgba(255,255,255,0.85); font-size: 0.9rem; m
   .card { background: rgba(12,24,52,0.85); border-color: rgba(255,255,255,0.15); color: #e8eefc; }
   .sub, .contact { color: #a9b8d8; } h2 { color: #7dd6f5; } a { color: #8cc4ff; }
 }
+.apps li + li { margin-top: 12px; }
+.apps .row { display: flex; align-items: center; gap: 14px; padding: 14px 16px; border-radius: 16px;
+  background: rgba(30,107,255,0.08); border: 1px solid rgba(30,107,255,0.18); }
